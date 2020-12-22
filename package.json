@@ -1,0 +1,19 @@
+{
+  "name": "ridao-app",
+  "version": "1.0.0",
+  "description": "Server side for ridao app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mridpin/ridao-app.git"
+  },
+  "author": "mridpin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mridpin/ridao-app/issues"
+  },
+  "homepage": "https://github.com/mridpin/ridao-app#readme"
+}
